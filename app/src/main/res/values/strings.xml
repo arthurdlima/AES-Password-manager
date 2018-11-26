@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CodeBank</string>
+    <string name="password">Password</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="encryption_key">Encryption Key</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">DECRYPT</string>
+    <string name="codebank">CODEBANK</string>
+    <string name="arthur_lima">Arthur Lima</string>
+    <string name="lockimage">lockImage</string>
+</resources>
